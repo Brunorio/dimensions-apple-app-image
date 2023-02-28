@@ -1,4 +1,4 @@
-# Dimensões de Telas de captura de tela de imagens para publicação na App Store Connect
+# Dimensões de captura de tela para publicação de App na App Store Connect
 
 ## Tela 6,7 pol.
 - Resolução
